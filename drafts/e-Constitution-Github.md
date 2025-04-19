@@ -77,4 +77,8 @@ My mind runs so much these days. It's exhausting. I'm just being used so wrong. 
 - smart glasses which use eye movement tracking to tell what you want. tech is so unintuitive these days. like technology in cars is SO distracting. it needs to work with people, not against them
 - translation headphones (but like good ones) - these can go on the smart glasses, so if somebody is speaking a different language, you can subtly turn the translator on and it'll translate the conversation for you with different voices based on who's talking. spy shit. we can all have that.
 
-F*ck. New Constitution. Sit and stop and sing. Use music and games. And food. Those are the secrets to connecting everyone. Trmp can't stop us from playing chess and listening to rock. Well, he can. But it'll affect much more than just "the libs"
+F*ck. New Constitution. Sit and stop and sing. Use music and games. And food. Those are the secrets to connecting everyone. Trmp can't stop us from playing chess and listening to rock. Well, he can. But it'll affect much more than just "the libs".
+
+I f*cking rock this shit. i'm so good at troubleshooting. how do i do that? but i get no fucking credit for it. it's insane. by people who can't open a PDF. I can do so much more. But i'm doing nothing. making nothing. it's embarrassing.
+
+Get your shit together, Phil.
