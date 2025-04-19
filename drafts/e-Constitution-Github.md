@@ -1,0 +1,80 @@
+# 📰 e-Constitution-Github
+
+Maybe i'll be able to write on GitHub since the VS Code interface is different. it doesn't feel like i have to write perfectly. i can just mess around, like code.
+
+We all need to learn how to code. What are we doing here?
+
+We need to create an online constitution. We have the power of ideas, but we're just yelling at them. We need to out-idea them.
+
+New Constitution starts with... wow honestly we could go back to FDR's 1944 speech on a Second Bill of Rights. Because that's pretty relevant to right now.
+
+## Roosevelt's Speech (from Wikipedia):
+
+ During Roosevelt's January 11, 1944, message to the Congress on the State of the Union, he said the following:[7]
+
+    It is our duty now to begin to lay the plans and determine the strategy for the winning of a lasting peace and the establishment of an American standard of living higher than ever before known. We cannot be content, no matter how high that general standard of living may be, if some fraction of our people—whether it be one-third or one-fifth or one-tenth—is ill-fed, ill-clothed, ill-housed, and insecure.
+
+    This Republic had its beginning, and grew to its present strength, under the protection of certain inalienable political rights—among them the right of free speech, free press, free worship, trial by jury, freedom from unreasonable searches and seizures. They were our rights to life and liberty.
+
+    As our nation has grown in size and stature, however—as our industrial economy expanded—these political rights proved inadequate to assure us equality in the pursuit of happiness.
+
+    We have come to a clear realization of the fact that true individual freedom cannot exist without economic security and independence. "Necessitous men are not free men."[8] People who are hungry and out of a job are the stuff of which dictatorships are made.
+
+    In our day these economic truths have become accepted as self-evident. We have accepted, so to speak, a second Bill of Rights under which a new basis of security and prosperity can be established for all—regardless of station, race, or creed.
+
+    Among these are:
+
+        The right to a useful and remunerative job in the industries or shops or farms or mines of the nation;
+        The right to earn enough to provide adequate food and clothing and recreation;
+        The right of every farmer to raise and sell his products at a return which will give him and his family a decent living;
+        The right of every businessman, large and small, to trade in an atmosphere of freedom from unfair competition and domination by monopolies at home or abroad;
+        The right of every family to a decent home;
+        The right to adequate medical care and the opportunity to achieve and enjoy good health;
+        The right to adequate protection from the economic fears of old age, sickness, accident, and unemployment;
+        The right to a good education.
+
+    All of these rights spell security. And after this war is won we must be prepared to move forward, in the implementation of these rights, to new goals of human happiness and well-being.
+
+    America's own rightful place in the world depends in large part upon how fully these and similar rights have been carried into practice for all our citizens. For unless there is security here at home there cannot be lasting peace in the world.
+
+That's pretty good. Let's go back to that. Now, we've come so far as to always condemn the Nazi's, but apparently be perfectly okay with the actions the Nazi's did. Apparently... 
+
+The Nazi's led people on death runs and shot them if they straggled or fell. Old men. Fathers. 
+The Israeli's lead pepole on death runs and shoot them if they straggle or fall. Old men. Fathers.
+It's just the tense that changes. The action remains the same.
+
+We must agree on what war crimes are. There must be irrefutables:
+- Exploding pagers
+
+Honestly, i think everybody deserves to have a last meal. Their last meal, which they know is their last meal, which they can have whatever they want. It's not fair to end people before they can have what they know is their last meal. Israel does that. Stop doing that. Israel - if you want to murder all 2 million Palestinians, at least do them the courtesy of mass arresting all of them and giving them the final meal that they want. Even if it's their mothers whatever. Let them eat it. Get the ingredients for the mother to make her son's favorite dish one more time before ending the family bloodline. Which has probably been there for hundreds of years. If you're going to do it, stop with the whole plan/quadcopter/AK-47 bit. Create a long table and let people have their final meal. Then, end them and build your utopian Gaza with mansions for the uber-wealthy. "Dubai" in Israel. You did it, you created heaven.
+
+It's all because these f*ckers don't want to go to jail. If they go to jail, all of this gets better. If N*tanyahu and Tr*mp go to jail, and smarter, more peaceful people come into power, the world would be a better place. We need intelligent people in power. Not the idiots. All of these idiots need to go, with the exception of maybe aoc and ilhan and bernie and all those guys. I think they are trying, for as much hate as they (rightfully) get. It's hard. This is a VERY dangerous government right now.
+
+I think in a year we will be looking at:
+- martial law
+- jailed political opponents
+- banned non-Tr*mp news networks
+- curfews in major cities
+- checkpoints everywhere, especially at schools
+- a war with Iran, possibly attacks here
+- possibly a nuclear b*mb used
+- mass starvation
+- mass homelessness
+- mass disease
+- hospitals overwhelmed
+
+This is so beyond f*cked. We need a new constitution.
+
+We need a digital country too. Think about if we rededicated all our efforts away from wars and debt, and started doing:
+- solar 
+- figuring out the best ways to mass distribute clean water (who is this dude who figured out clean water? the segway guy?)
+- figuring out a digital government. how to have all government services SECURELY online. Blockchain. What if we all learned that?
+- figuring out the best ways to grow clean and nutritious food
+- stop jailing f*cking everyone
+
+My mind runs so much these days. It's exhausting. I'm just being used so wrong. My energy is not going towards the right places. I need something to focus on. There's so many AI projects to work on, but they all TAKE TIME
+- handwriting ocr - interpreting people's handwriting and being able to create a font with it. SUPER dangerous because you can write a letter as if you're someone else and the recipient would never know if the letter was actually written by the person to them. it's like copying someone's fingerprint. So f*cked. Seriously, we need to regulate this stuff. What the actual f*ck.
+- smart glasses which use eye movement tracking to tell what you want. tech is so unintuitive these days. like technology in cars is SO distracting. it needs to work with people, not against them
+- translation headphones (but like good ones) - these can go on the smart glasses, so if somebody is speaking a different language, you can subtly turn the translator on and it'll translate the conversation for you with different voices based on who's talking. spy shit. we can all have that.
+
+F*ck. New Constitution. Sit and stop and sing. Use music and games. And food. Those are the secrets to connecting everyone. Trmp can't stop us from playing chess and listening to rock. Well, he can. But it'll affect much more than just "the libs"
