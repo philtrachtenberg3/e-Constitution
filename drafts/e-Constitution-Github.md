@@ -112,3 +112,30 @@ You're going to talk to them about it, aren't you. make them make the decision f
 if i stay, i will always be this passive guy. this isn't okay.
 
 here's the black mirror episode: guy and his girlfriend have been betting on sports for a while. guy and girlfriend are both feeling helpless with the state of the world, so they create gambling on world events. things like "us declares war on iran", "martial law in the us". all the way down to thing like "trmp assassinated". and it's fun and games and it gains some traction, and then dies down for a while. and then suddenly trmp gets assassinated and the site goes viral on right wing media, and suddenly everyone is wondering if somebody had gambled on trmp dying. and how much. and it ends up being private equity, because private equity owns everything right now, including who's in office. trmp is nothing compared to them, what they own. he is a pawn, as are we all.
+
+i guess i'm staying. for now.
+
+this isn't going to work. i can't format things in here. and, what the fck am i doing? who am i doing it for? i'm sedentary. i know this is a horrible strategy. i'm public and searchable. this is so bad.
+
+This might be a horrible idea. There's a reason people don't write on GitHub. I don't actually know what i'm doing. anyone can "fork" this and make their own versoin. But... i guess that's what i'm doing?
+
+i move too fast.
+
+Omg. Let's get back to the second bill of rights:
+    - **The right to a useful and remunerative job in the industries or shops or farms or mines of the nation**: in today's day and age, this probably means the ability to get a job in something that is providing some value, like a shop or a warehouse or an IT profession. some trade that is useful today. definitely a lot more IT, we need IT workers. and plumbers, contractors, etc... stuff like that. no more mines.
+    - **The right to earn enough to provide adequate food and clothing and recreation**: this makes sense - everyone should have enough food to eat, clothing to wear, and fun to have. I'd add water to this, unless that would be covered somewhere else. this is basically the "bare essentials" category. i'd also include electricity, hot water (in addition to drinking water), and heat/AC (since it is 2025). there are environmental considerations for the heat/AC part, so i could see that getting taken out. but basically: everyone should be able to live comfortably.
+        - i think one of the most insane things these days is that people are afraid others have "too much" food, shelter, and fun. as if they are hoarding them, and it is our responsibility to make sure they don't have too much food, shelter, and fun. the thing with these categories is: they regulate themselves. people don't want to be gluttons. and if they are, they'll usually get called out. People don't want to have shopping as the thing that emotionally regulates them. or a status symbol, or whatever. "too much clothing" regulates itself. same with too much fun. as if the poor people are just having so much fun, all the time. fun regulates itself too. there's time to have fun and there's time to be serious. usually that regulates itself too. on a good team, it naturally does. people aren't just needlessly funn-ing all the time. stop making tickets for all events so expensive, TicketMaster. Which we all rely on.
+    - The right of every farmer to raise and sell his products at a return which will give him and his family a decent living;
+    - The right of every businessman, large and small, to trade in an atmosphere of freedom from unfair competition and domination by monopolies at home or abroad;
+    - The right of every family to a decent home;
+    - The right to adequate medical care and the opportunity to achieve and enjoy good health;
+    - The right to adequate protection from the economic fears of old age, sickness, accident, and unemployment;
+    - The right to a good education.
+
+What if this was a rule - if you beat up someone, you have to heal them. is that feasible? the idea that if you're going to injure someone for a moral reason, you should be responsible for healing their injuries. incentivize people to think about it. i don't know. maybe this is too far utopian.
+
+if i were in any time in history, i would just pretend it wasn't happening and ignore it until it comes to my doorstep. that's what's happening. and it feels like it could be any day now.
+
+i feel good because the decision was made for me. but it's a sad decision. it's a decision that was made for me. and it's not the right one. not long term. it's the short term safety. that's what it is.
+
+I need to get her out. i need to get them out. what am i DOING here? has the world gone mad? just bring me back to a simpler time. i'll do better. i'll value myself more.
