@@ -1,0 +1,13 @@
+# Type I/II error
+
+## Null Hypothesis (Ho)
+He is a terrorist
+
+## Type 1 error (false positive)
+He is not a terrorist, but we labeled him as a terrorist
+
+## Type 2 error (false negative)
+He is a terrorist, but we labeled him as not a terrorist
+
+## Analysis
+In normal statistics, we want a 5% error rate. meaning, 5% of the time we are incorrectly classifying the data (type I or type II error). 95% of the time, we want to be correctly categorizing the data (he is a terrorist and we labeled him a terrorist, or he is not a terrorist and we labeled him not a terrorist). The obvious problem here is: what counts as a terrorist? This is where the analysis comes in: for this government, the term "terrorist" means anyone with basic human decency. "DEI" means terrorism. However, the reality is that people who believe in diversity, equity, and inclusion are in fact NOT the terrorists. So, the government has the wrong null hypothesis. And then, given the government's null hypothesis, they are willing to have something like a 95% error rate, as opposed to a 5% error rate. This means that the government would rather commit a type 1 error (claim someone is a terrorist when they are not) than risk a type II error. This is a common tactic in fascism: everyone is a terrorist until proven otherwise. it's guilty until proven innocent. This, combined with the fact that the government has a twisted view of what counts as a 'terrorist' (ex. a Trump supporter who shoots Trump protestors is considered a hero, while they are by definition a terrorist), means that they will have an extremely high Type I error rate, AND not be minimizing Type II error. Israel does Type I error, but with b*mbs and sniper shots to the head. The US does Type I error with detainment and now deportation. Because they have no incentive to minimize Type I error. If they bring in (and in the extreme example, imprison or deport) someone, they face no repercussions. The people in charge will get credit for wrongfully deporting 100 people in search for 1. Israel will get credit for murdering 100 people for the possibility that 1 was Hmas. And the definition of "Hmas" is at this point "any Palestinian male". This is the problem with having stupid people in charge - they do not use the scientific method or care about error rate the way a statistician would. They are free to commit as much Type I error as they want. That's dangerous.
