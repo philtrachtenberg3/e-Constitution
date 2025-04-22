@@ -179,3 +179,40 @@ And it's not even just a strategic advantage kind of thing - it's a genuine curi
 ## Debt
 I need to read David Graeber's book so badly. The current system of debt is beyond anything anyone could've imagined. You will go into debt for any investment into yourself. There's no way to avoid it. Education, healthcare. You'll have to go into insurmountable debt for it. I think there should be a concept of "debt" (maybe put some skin in the game to show you're serious about something), but really it's all about trust and not about keeping somebody in an impossible life situation. I keep thinking about what if we cleared all debt every 7 years? It's a biblical thing, but it makes sense now. 7 years is a long time, to be able to plan, execute, and grow. If you take that 7 years to "explore" (meaning, go to school and improve your skills), you shouldn't really accumulate much debt, but you also won't earn all that much. If you take those 7 years to "exploit" (meaning, start a business. sell something. take a risk), you shouldn't be punished forever if things don't go your way. I think that by cancelling debt, it allows people to take risks they wouldn't take without some security. And when it comes to people working with other people, if someone never pays back and they keep waiting for the reset or whatever, I don't think people will work with them. Just because the debt gets cleared, doesn't mean that person has earned trust. But, it also gives people the ability to earn trust (or to rebuild trust) by showing what you do with the opportunity. I haven't fullly flushed this all out, but i think the idea of debt cancellation is a good one, and would create more pro-social behaviors in the real world.
 
+## Tax System
+We need a new tax system. Everyone knows it, but we can create a system of progressive taxation which still incentivizes people to innovate, while also funding social programs. The idea that taxation immediately disincentivizes you to do anything is INSANE. It's this real zero-sum game of "if i can't make all the money i possibly can, i might as well not try". There have to be so many ways to tax in a way that doesn't "insult" the person, and provides enough yearly to fund food, water, healthcare, education, etc... It's just about shrinking the wealth gap. We could do something like 6 tax tiers, people making the most get taxed on each additional dollar above $1,000,000, for example. Here's what ChatGPT gave:
+
+Income Range | Tax Rate
+$0 – $10,000 | 10%
+$10,001 – $40,000 | 15%
+$40,001 – $100,000 | 20%
+$100,001 – $250,000 | 25%
+$250,001 – $1,000,000 | 35%
+$1,000,001 and above | 45%
+
+We could probably do something where it keeps up with inflation, too. The other thing is for people with investment income and not ordinary income, we can tax capital gains and ordinary income as ordinary income. Basically, all income would be taxed the same, whether it comes from a job or investment income. 
+
+I asked ChatGPT what some progressive taxation estimates could bring in, and here's what it says for annual revenue.
+
+Tax Proposal | Estimated Annual Revenue
+Warren's Wealth Tax | $270 billion
+Biden's Minimum Tax on Wealth over $100M | $50 billion
+Modest Progressive Wealth Tax (Study Estimate) | $928.39 billion
+
+It says universal healthcare costs $3.6T annually. This is wild, how are we affording anything? 
+
+Regardless, a progressive tax system is just better. Full stop. It's wild but here are the top marginal tax rates in the period after WWII:
+
+Year | Top Marginal Tax Rate | Applies To Incomes Above (in today's dollars)
+1944–1945 | 94% | About $2.5 million+ today
+1950s (Eisenhower years) | 91% | About $1.6 million+
+1963 (last year of this peak) | 91% | Roughly $1.4 million+
+
+Corporate tax rates were also high — around 50% to 52% in the 1950s. The effective corporate tax rate (what was actually paid) was around 40%, compared to about 8–9% today (according to Chat).
+
+This is crazy - the top marginal income tax rates over time. Fcking Reagan...
+
+![Tax Rate Chart](/assets/top-marginal-federal-income-tax-rate-over-time.png)
+
+
+

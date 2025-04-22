@@ -13,3 +13,6 @@
 
 - translation headphones:
 -- dangers: lots of data training. but i want to do it!! learn different languages by translating. should be a part of VR glasses
+
+- news aggregator:
+-- dangers: more questions than dangers - do i rate by source or by article? how do you pull articles from all these different sources? can you incorporate social media? sentiment analysis?
