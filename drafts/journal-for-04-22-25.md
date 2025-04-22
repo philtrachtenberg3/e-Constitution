@@ -1,0 +1,15 @@
+## What are we doing here?
+
+Here's the conundrum of the day: you walk into a restaurant to write. there are a good number of people here, but it's not packed. there are a few 4-seaters open, and there's 1 2-seater open. You want to write so it's nice to spread out, but you feel bad taking up a 4-seater just for yourself. the 2-seater seems like the obvious choice. But, the 2-seater is squeezed in between 2 other 2-seaters. it's like you're going into the middle urinal between 2 people. A lot of people would say you should just wait. Do you go with the 2-seater since it's only you? Or, do you go with the 4-seater since there are others open and you can have privacy? Would the situation change if this was the only 4-seater open?
+Probably. Actually, almost definitely it would change if this was the only 4-seater open. I think i'd feel too bad about taking it, and sacrifice the privacy for the courtesy of others. But, with 2 other 4-seaters open, i feel comfortable that other groups can come in and have a table. And if they fill up, i can move. That's a part of the problem that doesn't really feel fair. if you can move, then it doesn't really matter. Start with the best option always, i guess. But, people also look in to see how crowded something is, so it does play a role if certain tables are taken up. 
+i think people are giving me looks. and my food came as another group walking in. i should've take the 2-seater. then i wouldn't have had the guilt.
+
+We really should be careful when people have computers out. it feels like the wild wild west at times. Anything can happen to anyone, especially in a public place. it feels like we're too exposed.
+
+60 second black mirror plot:
+- guy and girlfriend bet on sports, do pretty well. they watch a lot of tv, and there are the draftkings/fanduel ads all the time. meanwhile, world is blowing up around them. climate disaster, war, idiot leaders. they feel helpless. they go to protests but nothing happens
+- they decide to have some fun with it by making a betting website on world events to happen. things like certain wars, news stories, existential events. the website gains some traction but is then largely forgotten. the ads for it are a play on draftkings ads ("do you want to win big? do you feel absolutely helpless with the state of the world right now? why not... gamble on world events!") but in like tiktok format. it gets good numbers but ultimately dies down
+- then, one of the events on the betting list happens (an assassination?). people are trying to figure out who did it, and the website comes into everyone's focus. it was an event predicted by the fake betting market as a joke bet
+- turns out, there was a huge wager placed on the bet the day before the assassination.
+- it ends up being a huge financial chase, with private equity ultimately responsible. some analysts at a PE firm had seen the website and created their own version, with REAL money this time. things kept escalating and escalating until someone says "i heard some shit is going down soon" (this is where i need help. i don't know how to be a gangster. i just know the stories behind it).
+- how does it end?

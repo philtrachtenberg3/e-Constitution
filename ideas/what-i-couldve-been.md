@@ -1,0 +1,8 @@
+- math Phd: would've been better than flaming out. i'd work with a lot of different programs, probably focus in linear algebra / data collection
+- technology governance: keep going with this technology & regulation path, but write peer-reviewed papers on it
+- teacher: math teacher most likely, history teacher next. behavioral economics teacher ideally.
+- professor: behavioral economics
+- international journalist: write stories, plan things, work with people from different cultures. interview. show genuine curiosity. fact check. be credible.
+- electrician / robotics: enjoy working with my hands and coding. figuring out why things don't work. stable job. can create really cool things. more of an "inventor" vibe
+- finance / tech: i'm good with numbers, trends, and technology. fits well for... making money
+- 
